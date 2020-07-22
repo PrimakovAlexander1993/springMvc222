@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Unsainted" />
+        <module name="JM_PreProject7-master" />
       </profile>
     </annotationProcessing>
   </component>
