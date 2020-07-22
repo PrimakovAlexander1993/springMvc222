@@ -11,7 +11,7 @@ import service.CarServiceImp;
 import java.util.List;
 
 @Controller
-@PropertySource("classpath:Bundle.properties")
+@PropertySource(value = "classpath:Bundle.properties", encoding = "UTF-8")
 public class CarsController {
 
     @Value("${title_en}")
